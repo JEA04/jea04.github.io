@@ -7,6 +7,6 @@ draft: false
 ---
 An Embedded HAL should be created to allow a Level of Abstraction. This abstraction then allows a substitution of the Hardware Components to test the business logic off-device
 
-- Device Drivers should use *Transport Drivers* provided by a [[Embedded HAL]]https://lenord.me/posts/writing_embedded_device_drivers/)
+- Device Drivers should use *Transport Drivers* provided by an Embedded HAL https://lenord.me/posts/writing_embedded_device_drivers/)
 
 **Related to:** [[device_drivers]]
